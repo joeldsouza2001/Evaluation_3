@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eval3</string>
+
+
+        <string-array name="items">
+            <item>Semnox Mangalore</item>
+            <item>Semnox Bangalore</item>
+            <item>Semnox Mumbai</item>
+        </string-array>
+
+</resources>
